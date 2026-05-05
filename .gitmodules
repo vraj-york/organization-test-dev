@@ -1,0 +1,3 @@
+[submodule "launchpad-frontend"]
+	path = launchpad-frontend
+	url = https://github.com/Launchpad-york/vraj-scratch-test-8.git
